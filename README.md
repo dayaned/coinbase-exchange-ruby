@@ -10,7 +10,7 @@ We provide an exchange client that is a thin wrapper over the exchange API.  The
 We provide a synchronous and asynchronous client.  The only functional difference between the two clients is that the asynchronous client must be started inside the Eventmachine reactor loop.
 
 **Synchronous Client**
-
+dasc;dsmvlakdnclk/san Cv/lkdjbn c:SLKXNzv l/kbfn dl/skXm 
 ```ruby
 require 'coinbase/exchange'
 
